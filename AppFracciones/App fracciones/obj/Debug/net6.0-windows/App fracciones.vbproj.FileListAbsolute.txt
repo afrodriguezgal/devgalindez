@@ -1,0 +1,17 @@
+C:\Users\Windesk\source\repos\App fracciones\App fracciones\obj\Debug\net6.0-windows\App fracciones.vbproj.AssemblyReference.cache
+C:\Users\Windesk\source\repos\App fracciones\App fracciones\obj\Debug\net6.0-windows\App_fracciones.appfracciones.resources
+C:\Users\Windesk\source\repos\App fracciones\App fracciones\obj\Debug\net6.0-windows\App fracciones.vbproj.GenerateResource.cache
+C:\Users\Windesk\source\repos\App fracciones\App fracciones\obj\Debug\net6.0-windows\App fracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windesk\source\repos\App fracciones\App fracciones\obj\Debug\net6.0-windows\App fracciones.AssemblyInfoInputs.cache
+C:\Users\Windesk\source\repos\App fracciones\App fracciones\obj\Debug\net6.0-windows\App fracciones.AssemblyInfo.vb
+C:\Users\Windesk\source\repos\App fracciones\App fracciones\obj\Debug\net6.0-windows\App fracciones.vbproj.CoreCompileInputs.cache
+C:\Users\Windesk\source\repos\App fracciones\App fracciones\bin\Debug\net6.0-windows\App fracciones.exe
+C:\Users\Windesk\source\repos\App fracciones\App fracciones\bin\Debug\net6.0-windows\App fracciones.deps.json
+C:\Users\Windesk\source\repos\App fracciones\App fracciones\bin\Debug\net6.0-windows\App fracciones.runtimeconfig.json
+C:\Users\Windesk\source\repos\App fracciones\App fracciones\bin\Debug\net6.0-windows\App fracciones.dll
+C:\Users\Windesk\source\repos\App fracciones\App fracciones\bin\Debug\net6.0-windows\App fracciones.pdb
+C:\Users\Windesk\source\repos\App fracciones\App fracciones\obj\Debug\net6.0-windows\App fracciones.dll
+C:\Users\Windesk\source\repos\App fracciones\App fracciones\obj\Debug\net6.0-windows\refint\App fracciones.dll
+C:\Users\Windesk\source\repos\App fracciones\App fracciones\obj\Debug\net6.0-windows\App fracciones.pdb
+C:\Users\Windesk\source\repos\App fracciones\App fracciones\obj\Debug\net6.0-windows\App fracciones.genruntimeconfig.cache
+C:\Users\Windesk\source\repos\App fracciones\App fracciones\obj\Debug\net6.0-windows\ref\App fracciones.dll

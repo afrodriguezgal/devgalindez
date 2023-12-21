@@ -1,0 +1,17 @@
+C:\Users\Windesk\source\repos\conversor\conversor\obj\Debug\net6.0-windows\conversor.vbproj.AssemblyReference.cache
+C:\Users\Windesk\source\repos\conversor\conversor\obj\Debug\net6.0-windows\conversor.conversor.resources
+C:\Users\Windesk\source\repos\conversor\conversor\obj\Debug\net6.0-windows\conversor.vbproj.GenerateResource.cache
+C:\Users\Windesk\source\repos\conversor\conversor\obj\Debug\net6.0-windows\conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windesk\source\repos\conversor\conversor\obj\Debug\net6.0-windows\conversor.AssemblyInfoInputs.cache
+C:\Users\Windesk\source\repos\conversor\conversor\obj\Debug\net6.0-windows\conversor.AssemblyInfo.vb
+C:\Users\Windesk\source\repos\conversor\conversor\obj\Debug\net6.0-windows\conversor.vbproj.CoreCompileInputs.cache
+C:\Users\Windesk\source\repos\conversor\conversor\bin\Debug\net6.0-windows\conversor.exe
+C:\Users\Windesk\source\repos\conversor\conversor\bin\Debug\net6.0-windows\conversor.deps.json
+C:\Users\Windesk\source\repos\conversor\conversor\bin\Debug\net6.0-windows\conversor.runtimeconfig.json
+C:\Users\Windesk\source\repos\conversor\conversor\bin\Debug\net6.0-windows\conversor.dll
+C:\Users\Windesk\source\repos\conversor\conversor\bin\Debug\net6.0-windows\conversor.pdb
+C:\Users\Windesk\source\repos\conversor\conversor\obj\Debug\net6.0-windows\conversor.dll
+C:\Users\Windesk\source\repos\conversor\conversor\obj\Debug\net6.0-windows\refint\conversor.dll
+C:\Users\Windesk\source\repos\conversor\conversor\obj\Debug\net6.0-windows\conversor.pdb
+C:\Users\Windesk\source\repos\conversor\conversor\obj\Debug\net6.0-windows\conversor.genruntimeconfig.cache
+C:\Users\Windesk\source\repos\conversor\conversor\obj\Debug\net6.0-windows\ref\conversor.dll
