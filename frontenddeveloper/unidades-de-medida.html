@@ -1,0 +1,56 @@
+<!--Absolutos
+son medidas que no depende de nadie mas para ser ellos mismos
+px --- pixeles
+cm
+mm
+in
+pt
+pc
+
+Relativos
+son aquellos que si dependen de alguien mas
+% se adapta al padre
+rem
+em
+vm
+vh
+vmin
+vmax
+ex
+ch
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        html{
+            font-size: 62.5%;
+        }   
+        body {
+            margin: 0;
+        }
+        div{
+            width: 100px; /* solo depende de lo que se defina */
+            height: 100px;
+            background: violet;
+        }
+        p {
+            font-size: 3rem; /* 16px defecto en el body *2rem*/
+        }
+        .container{
+            width: 100vw;
+            height: 100vh;
+            background: plum;
+        }
+    </style>
+</head>
+<body>
+    <div>Platzi</div>
+    <p>Master</p>
+    <div class="container"></div>
+</body>
+</html>

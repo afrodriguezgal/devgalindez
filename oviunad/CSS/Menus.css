@@ -1,0 +1,253 @@
+*{
+
+  padding: 0px;
+  margin: 0px;
+  background: black,
+}
+
+/*font-family: 'Open Sans', sans-serif;*/
+
+.Contenidos {
+  width: auto;
+  height: auto;
+  margin: auto;
+  position: relative;
+  background: black;
+  }
+  
+  header {
+    width: auto;
+    height: auto;
+    background: rgba(0,0,0,0.2);
+  }
+
+/*titulo1*/
+
+#logoytitulo {
+  width: 20%;
+  
+}
+
+.contenidoup{
+  justify-content: center;
+  margin-top: 2%;
+}
+
+.contadorvisitas {
+  
+  float: right;
+  width: 8.33%; 
+  display: center;  
+  }
+
+  #titu{
+  color: #FFF;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    background: black;
+  }
+/*titulo1*/
+
+.Menu_p ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #d4a402;
+  border-radius: 0px;
+  display: block;
+  box-shadow: 0 0 10px white inset;
+}
+
+li {
+  float: left;
+}
+
+li a, .dropbtn {
+display: inline-block;
+color: rgb(255, 255, 255);
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+border-radius: 10px;
+font-family: 'Open Sans', sans-serif;
+box-shadow: 0 0 10px white inset;
+margin-left:8px;  
+margin-top: 8px;
+margin-bottom: 8px;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: black;
+  border-radius: 10px;
+  font-family: 'Open Sans', sans-serif;
+  }
+
+li.dropdown {
+  display: inline-block;
+  border-radius: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: black;
+  min-width: 160px;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  text-align: center;
+  border-radius: 0px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.dropdown-content a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  text-align: center;
+  border-radius: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.dropdown-content a:hover {background-color: #d4a402}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+  border-radius: 10px;
+}
+
+
+.twitter-timeline {
+  float: right; 
+  margin-inline-end: 10px; 
+  }
+
+ 
+
+
+/*section{
+  width: 920px;
+  background: black;
+  height:600px;
+  float: left;
+  margin-top: 10px;
+  border-radius: 10px;
+}*/
+
+
+aside {
+  width: auto;
+  background: gray;
+  height: auto;
+  float: right;
+  margin-left: 20px;
+  margin-top: 80px;
+  border-radius: 10px;
+}
+
+
+footer {
+
+  /*background: gray;
+  width: auto;
+  height: auto;
+  float: left;
+  margin-top: 30px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  position: relative;
+  margin: auto;
+  text-align: center;*/
+
+  border-top: 1px solid #333;
+    border-bottom: 1px solid #333;
+    float: none;
+    overflow: hidden;
+    padding: 8px 0;
+    width: 100%;
+    background: gray;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+    /*width: 100%;
+    background: gray;*/
+}
+
+
+.footContact {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1024px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #FFF;
+  text-align: center;
+}
+
+.footContactTextES {
+
+ width: 36%;
+  float: left;
+  font-size: 11px;
+  text-align: justify;
+  line-height: 14px;
+}
+
+.footContactTextEN {
+
+  width: 36%;
+  float: left;
+  font-size: 11px;
+  text-align: justify;
+  line-height: 14px;
+}
+
+.footContactLogoUNAD{
+  width: 27.55%;
+  padding-left: 1.45%;
+  float: left;
+  text-align: left;
+}
+.autor
+{
+  margin-left: auto;
+  margin-right: auto;
+  width: 1024px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #FFF;
+  text-align: center;
+}
+#logoUNADInferior{
+  
+  width: 162px;
+  height: 39px;
+}
+
+  .imageSprite{
+    display: inline-block;
+    overflow: hidden;
+    color: transparent;
+  }
+  /*#unadlogofooter{
+    
+    
+    width: 162px;
+    height: 39px;
+  }*/
+
+
+  #subtitulo{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 70px;
+    text-align: auto;
+    font-size: 60px;
+  }
+  
+
+
