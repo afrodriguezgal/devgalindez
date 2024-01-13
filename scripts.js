@@ -1,3 +1,8 @@
+document.getElementById('enterButton').addEventListener('click', function() {
+    document.getElementById('welcomeScreen').style.display = 'none';
+    document.getElementById('mainContent').style.display = 'block';
+});
+
 const typewriteElement = document.getElementById('typewrite');
 const text = 'aqui tu presentación';
 
